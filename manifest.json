@@ -1,0 +1,31 @@
+{
+   "format_version" : 2,
+   "header" : {
+      "description" : "An all-in-one optimization client-resourcepack for MCBE.",
+      "name" : "§dAstral §9V6.0",
+      "uuid" : "93b06076-46e7-4e26-b9c9-5d6cb42997e5",
+      "version" : [ 5, 1, 0 ],
+      "min_engine_version" : [ 1, 16, 0 ]
+   },
+   "modules" : [
+      {
+         "description" : "Astral Client V6",
+         "type" : "resources",
+         "uuid" : "8307300f-186c-4c12-be2d-67507a26138e",
+         "version" : [ 5, 1, 0 ]
+      }
+   ],
+   
+   "subpacks": [
+      {
+         "folder_name": "bottomchat",
+         "name": "Bottom Chat UI",
+         "memory_tier": 1
+      },
+      {
+         "folder_name": "Nothing",
+         "name": "Nothing",
+         "memory_tier": 1
+      }
+   ]
+}
